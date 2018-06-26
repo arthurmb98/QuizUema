@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizUEMA</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+    <string name="btnjogar">btnJogar</string>
+    <string name="jogar">Jogar</string>
+    <string name="todo">TODO</string>
+    <string name="acertou">Acertou!</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+    <string name="todo">TODO</string>
+</resources>
